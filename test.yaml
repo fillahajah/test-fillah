@@ -1,0 +1,7 @@
+name: "GitHub Actions Shell"
+on:
+  workflow_dispatch:
+    inputs:
+      command:
+        description: 'The command to run'
+        required: true
