@@ -3,5 +3,5 @@ on:
   workflow_dispatch:
     inputs:
       command:
-        description: 'The command to run'
+        description: 'testing'
         required: true
